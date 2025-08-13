@@ -8,7 +8,7 @@
             
             AuthController authController = new AuthController(aps);
 
-            var accessToken = authController.GetToken().Result;
+            var accessToken = authController.GetAccessToken().Result;
             Console.WriteLine(accessToken);
         }
     }

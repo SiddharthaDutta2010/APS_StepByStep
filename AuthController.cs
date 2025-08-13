@@ -1,10 +1,11 @@
 ﻿using Autodesk.Authentication;
 using Autodesk.Authentication.Model;
+using Microsoft.AspNetCore.Mvc;
 
 namespace APS_StepByStep
 {
     public record Token(string AccessToken, DateTime ExpiresAt);
-    class AuthController
+    class AuthController : ControllerBase
     {
         private readonly APS _aps;
 
@@ -12,16 +13,15 @@ namespace APS_StepByStep
         {
             _aps = aps;
         }
-        public async Task<string> GetToken()
+
+        public async Task<IActionResult> GetAccessToken()
         {
-            var token = await GetToken("dmqcHi4CsHnSoH5NZB3L6ZjTzBCaKWA2HGn26Zh9IPasxBLk", "YakHyIAogXSWsWpnGGLXPhgSkIAAYgGHEzxk4cXJZDa5x3gc69TFAbmbaNXwuq1Q", [Scopes.ViewablesRead]);
-            return token.AccessToken;
-        }
-        private static async Task<Token> GetToken(string _clientId, string _clientSecret, List<Scopes> scopes)
-        {
-            var authenticationClient = new AuthenticationClient();
-            var auth = await authenticationClient.GetTwoLeggedTokenAsync(_clientId, _clientSecret, scopes);
-            return new Token(auth.AccessToken, DateTime.UtcNow.AddSeconds((double)auth.ExpiresIn));
+            var token = await _aps.GetPublicToken();
+            return Ok(new
+            {
+                access_token = token.AccessToken,
+                expires_in = (long)Math.Round((token.ExpiresAt - DateTime.UtcNow).TotalSeconds)
+            });
         }
     }
 }
