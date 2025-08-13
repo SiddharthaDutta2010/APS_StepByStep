@@ -6,7 +6,13 @@ namespace APS_StepByStep
     public record Token(string AccessToken, DateTime ExpiresAt);
     class AuthController
     {
-        public static async Task<string> GetToken()
+        private readonly APS _aps;
+
+        public AuthController(APS aps)
+        {
+            _aps = aps;
+        }
+        public async Task<string> GetToken()
         {
             var token = await GetToken("dmqcHi4CsHnSoH5NZB3L6ZjTzBCaKWA2HGn26Zh9IPasxBLk", "YakHyIAogXSWsWpnGGLXPhgSkIAAYgGHEzxk4cXJZDa5x3gc69TFAbmbaNXwuq1Q", [Scopes.ViewablesRead]);
             return token.AccessToken;
