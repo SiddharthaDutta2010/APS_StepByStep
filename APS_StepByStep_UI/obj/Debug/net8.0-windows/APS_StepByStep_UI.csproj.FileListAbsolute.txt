@@ -1,0 +1,146 @@
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.AssemblyReference.cache
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.UI.resources
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.GenerateResource.cache
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.AssemblyInfoInputs.cache
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.AssemblyInfo.cs
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.CoreCompileInputs.cache
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.exe
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.deps.json
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.runtimeconfig.json
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.pdb
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Authentication.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Forge.Core.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Sdk.Manager.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Polly.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\Polly.Core.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\zDel\Temp\APS_StepByStep_UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_Step.DEF72DBB.Up2Date
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.dll
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\refint\APS_StepByStep_UI.dll
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.pdb
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.genruntimeconfig.cache
+C:\zDel\Temp\APS_StepByStep_UI\obj\Debug\net8.0-windows\ref\APS_StepByStep_UI.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.exe
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Authentication.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Forge.Core.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Sdk.Manager.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Polly.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Polly.Core.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.AssemblyReference.cache
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.UI.resources
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.GenerateResource.cache
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.AssemblyInfoInputs.cache
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.AssemblyInfo.cs
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.CoreCompileInputs.cache
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.sourcelink.json
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_Step.DEF72DBB.Up2Date
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\refint\APS_StepByStep_UI.dll
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.pdb
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.deps.json
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.runtimeconfig.json
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.pdb
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.genruntimeconfig.cache
+C:\zDel\Temp\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\ref\APS_StepByStep_UI.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.exe
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.deps.json
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.runtimeconfig.json
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\APS_StepByStep_UI.pdb
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Authentication.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Forge.Core.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Autodesk.Sdk.Manager.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Polly.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\Polly.Core.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.AssemblyReference.cache
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.UI.resources
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.GenerateResource.cache
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.AssemblyInfoInputs.cache
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.AssemblyInfo.cs
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.csproj.CoreCompileInputs.cache
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.sourcelink.json
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_Step.DEF72DBB.Up2Date
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\refint\APS_StepByStep_UI.dll
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.pdb
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\APS_StepByStep_UI.genruntimeconfig.cache
+C:\0\6 Karma\APS\APS_Samples_Mine\APS_StepByStep\APS_StepByStep_UI\obj\Debug\net8.0-windows\ref\APS_StepByStep_UI.dll
