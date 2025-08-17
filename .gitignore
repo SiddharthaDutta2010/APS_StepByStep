@@ -5,3 +5,6 @@
 /obj
 /bin/Debug/net8.0
 /.vs/APS_StepByStep
+/.vs/ProjectEvaluation
+/APS_StepByStep/bin/Debug/net8.0
+/APS_StepByStep/obj
